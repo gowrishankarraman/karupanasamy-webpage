@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/karupanasamy-webpage/static/css/main.0a1b2e27.css",
+    "main.js": "/karupanasamy-webpage/static/js/main.87e058e1.js",
+    "static/media/kovil paner.jpeg": "/karupanasamy-webpage/static/media/kovil paner.d556b60679300af28613.jpeg",
+    "static/media/baner2.png": "/karupanasamy-webpage/static/media/baner2.473b7688179bf480e9d2.png",
+    "static/media/welcomspng.png": "/karupanasamy-webpage/static/media/welcomspng.bdd524ca1104e5d34b54.png",
+    "static/media/yagapujai1.jpeg": "/karupanasamy-webpage/static/media/yagapujai1.7be18857d38d378c1a04.jpeg",
+    "static/media/kovil kalasam.jpeg": "/karupanasamy-webpage/static/media/kovil kalasam.8edef4d49f0965c6de6d.jpeg",
+    "static/media/yagapujai3.jpeg": "/karupanasamy-webpage/static/media/yagapujai3.747073e9ff49f507da63.jpeg",
+    "static/media/seer2.jpeg": "/karupanasamy-webpage/static/media/seer2.bdd1aad27f2af1c83b2f.jpeg",
+    "static/media/kovilpujai.jpeg": "/karupanasamy-webpage/static/media/kovilpujai.a67664ab1378600b123c.jpeg",
+    "static/media/plate2.png": "/karupanasamy-webpage/static/media/plate2.754cc020798eef6e90f1.png",
+    "static/media/karupusammy.jfif": "/karupanasamy-webpage/static/media/karupusammy.31bbea0c08444297165f.jfif",
+    "static/media/banana3.png": "/karupanasamy-webpage/static/media/banana3.1046309f19774524f846.png",
+    "static/media/new temple.jpeg": "/karupanasamy-webpage/static/media/new temple.e6b8fda30467aa52f242.jpeg",
+    "static/media/apple2.png": "/karupanasamy-webpage/static/media/apple2.a94ed0beda7352f2eaef.png",
+    "static/media/cocknet2.png": "/karupanasamy-webpage/static/media/cocknet2.c1e16a96f49a74d2485e.png",
+    "index.html": "/karupanasamy-webpage/index.html",
+    "main.0a1b2e27.css.map": "/karupanasamy-webpage/static/css/main.0a1b2e27.css.map",
+    "main.87e058e1.js.map": "/karupanasamy-webpage/static/js/main.87e058e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1b2e27.css",
+    "static/js/main.87e058e1.js"
+  ]
+}
