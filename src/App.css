@@ -44,7 +44,7 @@
 
 .hid{
   opacity: 0;
-  transition: all 5s linear;
+  transition: all 2s linear;
 transform: translatex(-100%);
 }
 .show{
@@ -58,24 +58,24 @@ transform: translatex(-100%);
 
 
 .show[id=banana]{
-  animation:banana  5s linear;
+  animation:banana  2s linear;
   opacity: 1;
 
 }
 .show[id=apple]{
-  animation:apple  5s linear;
+  animation:apple  2s linear;
   opacity: 1;
 
 
 }
 .show[id=cocknet]{
-  animation:cocknet  5s linear;
+  animation:cocknet  2s linear;
   opacity: 1;
 
 
 }
 .show[id=baner2]{
-  animation: baner2 5s linear ;
+  animation: baner2 2s linear ;
  
   transform-origin: top;
 }
@@ -89,7 +89,7 @@ transform: translatex(-100%);
   
 }
  p.show.txt{
-  animation: txt 5s linear ;
+  animation: txt 2s linear ;
 
 }
 
@@ -150,7 +150,7 @@ transform: translatex(-100%);
 }
 
 .header{
- animation: header 5s linear;
+ animation: header 3s linear;
 }
 
 @keyframes header {
