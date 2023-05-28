@@ -10,7 +10,7 @@
  overflow:auto;
  background-color: #1391a2c9;
  background-size: 400% 400%;
- animation: contant 2s linear;
+ animation: contant 2s ease;
 }
 :root{
   --bgcolor:#085b63;
